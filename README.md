@@ -15,7 +15,7 @@
 ### ✉ Contact ✉
 <img src="https://img.shields.io/badge/ohohdmswlgd@gmail.com-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
 <img src="https://img.shields.io/badge/ohohdmswl@naver.com-03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white">
-[<img src="https://img.shields.io/badge/Tistory-CD040B.svg?style=for-the-badge&logo=Tistory&logoColor=white">](https://dev-linda.tistory.com/)
+[<img src="https://img.shields.io/badge/Tistory-CD040B.svg?style=for-the-badge&logo=Tistory&logoColor=white" />](https://dev-linda.tistory.com/)
 
 
 
