@@ -13,8 +13,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohohdmswl&layout=compact)
 
 ### ✉ Contact ✉
-[<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />](ohohdmswlgd@gmail.com)
-[<img src="https://img.shields.io/badge/Naver-03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white" />](ohohdmswl@naver.com)
+<img src="https://img.shields.io/badge/ohohdmswlgd@gmail.com-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/ohohdmswl@naver.com-03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white" />
 [<img src="https://img.shields.io/badge/Tistory-CD040B.svg?style=for-the-badge&logo=Tistory&logoColor=white" />](https://dev-linda.tistory.com/)
 
 
