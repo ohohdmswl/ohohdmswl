@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohohdmswl&layout=compact)
 
 ![Eun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohohdmswl&show_icons=true&theme=radical)
